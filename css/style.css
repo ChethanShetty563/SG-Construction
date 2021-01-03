@@ -550,4 +550,9 @@ header .intro-text {
 	  display: block;
 	}
 }
+@media only screen and (max-width: 300px) {
+#menu a.navbar-brand {
+	font-size: 15px;
+}
+}
 }
